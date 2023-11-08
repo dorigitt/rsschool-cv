@@ -1,1 +1,1 @@
-https://dorigitt.github.io/rsschool-cv/cv,
+https://dorigitt.github.io/rsschool-cv/cv
