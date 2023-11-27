@@ -1,1 +1,1 @@
-https://github.com/dorigitt/rsschool-cv/blob/main/cv.md
+https://dorigitt.github.io/rsschool-cv/cv.md
