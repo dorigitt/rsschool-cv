@@ -6,7 +6,7 @@ I am crazy about sitcoms, I have watched bunch of especially my favorite is "The
 I have always been in frontend developing, because it is really interesting how the web-pages beeing made.
 
 
-## General information
+## General information about me
  **Name**:Qazaq Dariga 
 
 **Date of birth**:10.11.2005
