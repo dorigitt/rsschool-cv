@@ -1,4 +1,4 @@
-# CV
+## CV
 ## About me
 
 Hi, My name is Qazaq dariga, i am 17. I love cooking and long night walks. 
