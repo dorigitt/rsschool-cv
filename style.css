@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+}
+
+
+
+.education{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    margin-left: 100px;
+    width: 500px;
+   
+}
+
+
+.general-information{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    font-size:17px;
+   
+    width: 500px;
+    padding: 6px;
+
+    
+}
+
+.gi{
+    font-size: 27px;
+}
+
+.edu{
+    font-size: 27px;
+}
+
+.work{
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    margin-left: 100px;
+    font-size:17px;
+    width: 500px;
+}
+
+.woe{
+    font-size: 27px;
+}
+
+.code{
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    margin-left: 100px;
+    font-size:17px;
+}
+
+.ex{
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    margin-left: 100px;
+    font-size:17px;
+}
+
+.exx{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+}
+
+.soft{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    font-size:17px;
+   
+    width: 500px;
+}
+.s{
+    font-size: 27px;
+}
+
+.cv{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 35px;
+}
