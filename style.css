@@ -39,7 +39,7 @@ h1{
     width: 500px;
 }
 
-.woe{
+.working{
     font-size: 27px;
 }
 
@@ -65,7 +65,6 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 100px;
     font-size:17px;
-   
     width: 500px;
 }
 .s{
@@ -75,4 +74,15 @@ h1{
 .cv{
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     font-size: 35px;
+}
+
+.hard{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    font-size:17px;
+    width: 500px;
+}
+
+.hard-skills{
+    font-size: 27px;
 }
